@@ -21,7 +21,7 @@ function Home() {
         <BrowseNavBar />
       </div>
       <div className="container">
-        <h2>Events Directory</h2>
+        <h2>Upcoming Events</h2>
         <p>Click on any date to check out any cool events around!</p>
         <div className="container">
           <EventCalendar />

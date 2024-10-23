@@ -27,7 +27,7 @@ const Title = styled.h1`
 `;
 
 const Filters = styled.div`
-  margin: 2rem 25px;
+  margin: 6rem 6rem;
 `;
 
 const Button = styled.button`
